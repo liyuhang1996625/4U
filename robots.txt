@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://liyuhang1996625.github.io/4UUU/sitemap.xml
+Sitemap: https://liyuhang1996625.github.io/4U/sitemap.xml
