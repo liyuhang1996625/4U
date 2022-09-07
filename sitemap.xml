@@ -1,82 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://liyuhang1996625.github.io/4U/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://liyuhang1996625.github.io/publii/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://liyuhang1996625.github.io/4U/</loc>
+<loc>https://liyuhang1996625.github.io/publii/</loc>
 </url>
 <url>
-<loc>https://liyuhang1996625.github.io/4U/ce-shi-di-san-ge-wen-zhang.html</loc>
-<lastmod>2022-08-26T19:55:21+08:00</lastmod>
+<loc>https://liyuhang1996625.github.io/publii/long-hu-shang-ye-qi-ye-ying-yong-long-tou-c2.html</loc>
+<lastmod>2022-09-07T11:34:42+08:00</lastmod>
 <image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/3/2.png</image:loc>
-<image:title><![CDATA[图片版简历]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://liyuhang1996625.github.io/4U/dong-hua.html</loc>
-<lastmod>2022-09-02T14:15:03+08:00</lastmod>
-<image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/7/Tie-Zhi-Dong-Hua-2.png</image:loc>
-<image:title><![CDATA[贴纸动画]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Dan-Gao-2.gif</image:loc>
-<image:title><![CDATA[🕯️ 蜡烛动画]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Fan-Zhuan-Tian-Tian-Quan-0829.gif</image:loc>
-<image:title><![CDATA[🍩 翻转甜甜圈]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Jiang-Bei-2_1.gif</image:loc>
-<image:title><![CDATA[🏆 奖杯]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Xiu-Gai-Deng-Pao.gif</image:loc>
-<image:title><![CDATA[Good idea]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Xiu-Gai-boom.gif</image:loc>
-<image:title><![CDATA[Boom]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Zuan-Shi-Wan-Cheng-Ban.gif</image:loc>
-<image:title><![CDATA[💎 钻石]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://liyuhang1996625.github.io/4U/long-tou-c2.html</loc>
-<lastmod>2022-09-02T14:15:34+08:00</lastmod>
-<image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/5/Feng-Mian-3.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/5/Chang-Tu.png</image:loc>
+<image:loc>https://liyuhang1996625.github.io/publii/media/posts/2/Long-Hu-Qi-Ye-Ji-Ying-Yong-Long-Tou-C2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://liyuhang1996625.github.io/4U/mou-pao.html</loc>
-<lastmod>2022-09-02T14:15:26+08:00</lastmod>
+<loc>https://liyuhang1996625.github.io/publii/ying-yan-bduan-yi-dong-ying-yong.html</loc>
+<lastmod>2022-09-07T11:34:53+08:00</lastmod>
 <image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/6/She-Jiao-APP-Mou-Pao.png</image:loc>
+<image:loc>https://liyuhang1996625.github.io/publii/media/posts/1/Ying-Yan-BDuan-Yi-Dong-Ying-Yong.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/6/Mou-Pao-01.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://liyuhang1996625.github.io/4U/ying-yan-bduan-yi-dong-ying-yong.html</loc>
-<lastmod>2022-09-02T14:22:08+08:00</lastmod>
-<image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/9/Ying-Yan-BDuan-Yi-Dong-Ying-Yong.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://liyuhang1996625.github.io/4U/media/posts/9/Chang-Tu-2.png</image:loc>
+<image:loc>https://liyuhang1996625.github.io/publii/media/posts/1/Chang-Tu-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

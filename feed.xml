@@ -1,118 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Yuhanglee</title>
-    <link href="https://liyuhang1996625.github.io/4U/feed.xml" rel="self" />
-    <link href="https://liyuhang1996625.github.io/4U" />
-    <updated>2022-09-02T14:22:08+08:00</updated>
+    <title>yuhanglee</title>
+    <link href="https://liyuhang1996625.github.io/publii/feed.xml" rel="self" />
+    <link href="https://liyuhang1996625.github.io/publii" />
+    <updated>2022-09-07T11:34:53+08:00</updated>
     <author>
-        <name>4UUU</name>
+        <name>4U</name>
     </author>
-    <id>https://liyuhang1996625.github.io/4U</id>
+    <id>https://liyuhang1996625.github.io/publii</id>
 
     <entry>
-        <title>鹰眼- B端移动应用</title>
+        <title>龙湖商业企业应用-龙头C2</title>
         <author>
-            <name>4UUU</name>
+            <name>4U</name>
         </author>
-        <link href="https://liyuhang1996625.github.io/4U/ying-yan-bduan-yi-dong-ying-yong.html"/>
-        <id>https://liyuhang1996625.github.io/4U/ying-yan-bduan-yi-dong-ying-yong.html</id>
-
-        <updated>2022-09-02T14:22:08+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://liyuhang1996625.github.io/4U/media/posts/9/Ying-Yan-BDuan-Yi-Dong-Ying-Yong.png" alt="" />
-                <figure class="post__image post__image--full"><img loading="lazy"  src="https://liyuhang1996625.github.io/4U/media/posts/9/Chang-Tu-2.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://liyuhang1996625.github.io/4U/media/posts/9/responsive/Chang-Tu-2-xs.png 384w ,https://liyuhang1996625.github.io/4U/media/posts/9/responsive/Chang-Tu-2-sm.png 600w ,https://liyuhang1996625.github.io/4U/media/posts/9/responsive/Chang-Tu-2-md.png 768w ,https://liyuhang1996625.github.io/4U/media/posts/9/responsive/Chang-Tu-2-lg.png 1200w ,https://liyuhang1996625.github.io/4U/media/posts/9/responsive/Chang-Tu-2-xl.png 1600w"  alt="" width="898" height="5557"></figure>
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="true" data-translation="添加图片" data-columns="1"> </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>贴纸动画</title>
-        <author>
-            <name>4UUU</name>
-        </author>
-        <link href="https://liyuhang1996625.github.io/4U/dong-hua.html"/>
-        <id>https://liyuhang1996625.github.io/4U/dong-hua.html</id>
-            <category term="Animation"/>
-            <category term="All"/>
-
-        <updated>2022-09-02T14:15:03+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://liyuhang1996625.github.io/4U/media/posts/7/Tie-Zhi-Dong-Hua-2.png" alt="贴纸动画" />
-                    🕯️ 蜡烛动画 🍩 翻转甜甜圈 🏆 奖杯 Good idea Boom 💎 钻石 可以点击放大进行切换查看🔍
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://liyuhang1996625.github.io/4U/media/posts/7/Tie-Zhi-Dong-Hua-2.png" alt="贴纸动画" />
-                <div class="gallery-wrapper gallery-wrapper--wide align-center align-right"><div class="gallery"  data-is-empty="false" data-translation="添加图片" data-columns="8">
-<figure class="gallery__item"><a href="https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Dan-Gao-2.gif" data-size="800x800"><img loading="lazy" src="https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Dan-Gao-2.gif" alt="🕯️ 蜡烛动画"></a>
-<figcaption>🕯️ 蜡烛动画</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Fan-Zhuan-Tian-Tian-Quan-0829.gif" data-size="800x800"><img loading="lazy" src="https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Fan-Zhuan-Tian-Tian-Quan-0829.gif" alt="🍩 翻转甜甜圈"></a>
-<figcaption>🍩 翻转甜甜圈</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Jiang-Bei-2_1.gif" data-size="800x800"><img loading="lazy" src="https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Jiang-Bei-2_1.gif" alt="🏆 奖杯"></a>
-<figcaption>🏆 奖杯</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Xiu-Gai-Deng-Pao.gif" data-size="800x800"><img loading="lazy" src="https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Xiu-Gai-Deng-Pao.gif" alt="Good idea"></a>
-<figcaption>Good idea</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Xiu-Gai-boom.gif" data-size="400x400"><img loading="lazy" src="https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Xiu-Gai-boom.gif" alt="Boom"></a>
-<figcaption>Boom</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Zuan-Shi-Wan-Cheng-Ban.gif" data-size="800x800"><img loading="lazy" src="https://liyuhang1996625.github.io/4U/media/posts/7/gallery/Zuan-Shi-Wan-Cheng-Ban.gif" alt="💎 钻石"></a>
-<figcaption>💎 钻石</figcaption>
-</figure>
-</div></div>
-<pre>可以点击放大进行切换查看🔍</pre>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>社交APP-冒泡</title>
-        <author>
-            <name>4UUU</name>
-        </author>
-        <link href="https://liyuhang1996625.github.io/4U/mou-pao.html"/>
-        <id>https://liyuhang1996625.github.io/4U/mou-pao.html</id>
-            <category term="Mobile"/>
-            <category term="All"/>
-
-        <updated>2022-09-02T14:15:26+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://liyuhang1996625.github.io/4U/media/posts/6/She-Jiao-APP-Mou-Pao.png" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://liyuhang1996625.github.io/4U/media/posts/6/Mou-Pao-01.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://liyuhang1996625.github.io/4U/media/posts/6/responsive/Mou-Pao-01-xs.png 384w ,https://liyuhang1996625.github.io/4U/media/posts/6/responsive/Mou-Pao-01-sm.png 600w ,https://liyuhang1996625.github.io/4U/media/posts/6/responsive/Mou-Pao-01-md.png 768w ,https://liyuhang1996625.github.io/4U/media/posts/6/responsive/Mou-Pao-01-lg.png 1200w ,https://liyuhang1996625.github.io/4U/media/posts/6/responsive/Mou-Pao-01-xl.png 1600w"  alt="" width="3840" height="2160"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>龙湖企业级应用-龙头C2</title>
-        <author>
-            <name>4UUU</name>
-        </author>
-        <link href="https://liyuhang1996625.github.io/4U/long-tou-c2.html"/>
-        <id>https://liyuhang1996625.github.io/4U/long-tou-c2.html</id>
+        <link href="https://liyuhang1996625.github.io/publii/long-hu-shang-ye-qi-ye-ying-yong-long-tou-c2.html"/>
+        <id>https://liyuhang1996625.github.io/publii/long-hu-shang-ye-qi-ye-ying-yong-long-tou-c2.html</id>
             <category term="Web"/>
             <category term="All"/>
 
-        <updated>2022-09-02T14:15:34+08:00</updated>
+        <updated>2022-09-07T11:34:42+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>鹰眼- B端移动应用</title>
+        <author>
+            <name>4U</name>
+        </author>
+        <link href="https://liyuhang1996625.github.io/publii/ying-yan-bduan-yi-dong-ying-yong.html"/>
+        <id>https://liyuhang1996625.github.io/publii/ying-yan-bduan-yi-dong-ying-yong.html</id>
+            <category term="Mobile"/>
+            <category term="All"/>
+
+        <updated>2022-09-07T11:34:53+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://liyuhang1996625.github.io/4U/media/posts/5/Feng-Mian-3.png" alt="" />
-                    项目简介 龙湖集团商业航道集商机、项目投资管理、线上决策功能于一体的全周期投拓系统
+                    这是说明文字
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://liyuhang1996625.github.io/4U/media/posts/5/Feng-Mian-3.png" alt="" />
-                <h3>项目简介</h3>
-<p>龙湖集团商业航道集商机、项目投资管理、线上决策功能于一体的全周期投拓系统</p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://liyuhang1996625.github.io/4U/media/posts/5/Chang-Tu.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://liyuhang1996625.github.io/4U/media/posts/5/responsive/Chang-Tu-xs.png 384w ,https://liyuhang1996625.github.io/4U/media/posts/5/responsive/Chang-Tu-sm.png 600w ,https://liyuhang1996625.github.io/4U/media/posts/5/responsive/Chang-Tu-md.png 768w ,https://liyuhang1996625.github.io/4U/media/posts/5/responsive/Chang-Tu-lg.png 1200w ,https://liyuhang1996625.github.io/4U/media/posts/5/responsive/Chang-Tu-xl.png 1600w"  alt="" width="1280" height="5760"></figure>
+                <figure ><figure class="post__image post__image--wide"><img loading="lazy"  src="https://liyuhang1996625.github.io/publii/media/posts/1/Chang-Tu-2.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://liyuhang1996625.github.io/publii/media/posts/1/responsive/Chang-Tu-2-xs.png 384w ,https://liyuhang1996625.github.io/publii/media/posts/1/responsive/Chang-Tu-2-sm.png 600w ,https://liyuhang1996625.github.io/publii/media/posts/1/responsive/Chang-Tu-2-md.png 768w ,https://liyuhang1996625.github.io/publii/media/posts/1/responsive/Chang-Tu-2-lg.png 1200w ,https://liyuhang1996625.github.io/publii/media/posts/1/responsive/Chang-Tu-2-xl.png 1600w"  alt="" width="1920" height="11880"></figure>
+<figcaption >这是说明文字</figcaption>
+</figure>
+<p> </p>
             ]]>
         </content>
     </entry>
