@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://liyuhang1996625.github.io/publii/sitemap.xml
